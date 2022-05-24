@@ -7,14 +7,14 @@
 <div id="header" align="center"> <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"></div>
   
 ## About me
-  - I'm a musical theatre nerd turned software developer who's looking for the right job opportunity!
-  - My cat loves to help me code and is the best pair programming buddy.
-  - I love to geek out on all things Star Wars, LOTR, and X-files - to name a few.
-  <div> 
-    <img src="https://media.giphy.com/media/Fr8WBzy8DWXawF9Ueb/giphy.gif" width="70" height="70"/>
-    <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="70" height="70"/>
-  <img src="https://media.giphy.com/media/JNP5ki0CAETgotei8h/giphy.gif" width="70" height="70"/>
-  </div>
+  - 💻 I'm a musical theatre nerd turned software developer who's looking for the right job opportunity!
+  - 😸 My cat loves to help me code and is the best pair programming buddy.
+  - 🤓 I love to geek out on all things Star Wars, LOTR, and X-files - to name a few.
+      <div> 
+        <img src="https://media.giphy.com/media/Fr8WBzy8DWXawF9Ueb/giphy.gif" width="70" height="70"/>
+        <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="70" height="70"/>
+      <img src="https://media.giphy.com/media/JNP5ki0CAETgotei8h/giphy.gif" width="70" height="70"/>
+      </div>
   
 ## Languages and Tools
    <div>
