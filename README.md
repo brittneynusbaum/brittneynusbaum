@@ -10,10 +10,15 @@
   - 💻 I'm a musical theatre nerd turned software developer who's looking for the right job opportunity!
   - 😸 My cat loves to help me code and is the best pair programming buddy.
   - 🤓 I love to geek out on all things Star Wars, LOTR, and X-files - to name a few.
+  - 🥧 I've watched enough of the "Great British Bakeoff" to think I'm a pretty good baker.
       <div> 
-        <img src="https://media.giphy.com/media/Fr8WBzy8DWXawF9Ueb/giphy.gif" width="70" height="70"/>
-        <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="70" height="70"/>
-      <img src="https://media.giphy.com/media/JNP5ki0CAETgotei8h/giphy.gif" width="70" height="70"/>
+            <img src="https://media.giphy.com/media/Fr8WBzy8DWXawF9Ueb/giphy.gif" width="70" height="70"/>
+            <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="70" height="70"/>
+            <img src="https://media.giphy.com/media/JNP5ki0CAETgotei8h/giphy.gif" width="70" height="70"/>
+            <br>
+            <img src="https://media.giphy.com/media/3o7TKTXV072t7ymjss/giphy.gif" width="350" height="200"/>
+        <br>
+            (Me baking and discovering a bug in my code)
       </div>
   
 ## Languages and Tools
