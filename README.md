@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-<div id="header" align="center"> <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"></div>
+<div id="header" align="center"> <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="350" height="200"></div>
   
 ## About me
   - 💻 I'm a musical theatre nerd turned software developer who's looking for the right job opportunity!
